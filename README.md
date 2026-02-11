@@ -102,6 +102,20 @@ streamlit run app.py
 
 Access the interactive web app to chat with the assistant, explore conversation flows, and test cart management in real time.
 
+
+### 🧭 vNext Design Docs
+
+New architecture/design supplements are available under `docs/`:
+
+- `docs/system_design_vnext.md`
+- `docs/modules/assistant.md`
+- `docs/modules/product_understanding.md`
+- `docs/modules/user_understanding.md`
+- `docs/evaluation/llm_evaluation.md`
+- `docs/logs/logging_spec.md`
+- `docs/data/data_contracts.md`
+- `docs/scripts.md`
+
 ### 🧪 Testing
 
 Run all tests to ensure functionality and consistency:
